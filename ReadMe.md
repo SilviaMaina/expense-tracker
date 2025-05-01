@@ -45,9 +45,9 @@ git clone https://github.com/SilviaMaina/expense-tracker.git
 Contributions are welcome! Please follow these steps to contribute:
 <ol>
   <li>Fork the repository.</li>
-Create a new branch: git checkout -b feature-branch-name</li>
-<li>Make your changes and commit them: `git commit -m 'Add some feature'`</li>
-<li>Push to the branch: `git push origin feature-branch-name`</li>
+<li>Create a new branch: <code>git checkout -b feature-branch-name</code></li>
+<li>Make your changes and commit them:<code> git commit -m 'Add some feature</li>
+<li>Push to the branch:<code> git push origin feature-branch-name`</li>
 <li>Open a pull request.</li>
 
 # License
